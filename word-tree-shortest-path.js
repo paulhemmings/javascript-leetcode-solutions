@@ -7,6 +7,8 @@
  * Solution notes:
  * Implemented a solution that did not use a tree, but rather built a collection
  * of solutions.
+ * 
+ * This usese more memory than a tree, but the solution is more readable.
  */
 
 function Solution(wordList) {
